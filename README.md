@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @pattshreds
-- 👀 I’m interested in software engineering!
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me; patrick.mcguigan5@gmail.com
+Aloha! My name is Patrick, welcome to my GitHub. (;
+I am a big fan of software engineering, both front-end and back-end.
+Feel free to browse my work and don't hesitate to say aloha.
+You can email me @ patrick.mcguigan5@gmail.com.
 
 <!---
 pattshreds/pattshreds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
