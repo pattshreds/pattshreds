@@ -1,5 +1,4 @@
-<h2>**You'll see that "Jasmine Smith" is the active user, That is me. I'm currently working from my partners MacBook.**</h2>
-<br>
+<h2>**You'll see that "Jasmine Smith" is the active user, That is me.  I'm currently working from my partners MacBook.**</h2>
 <h4>Aloha!</h4> <br>
 My name is Patrick, welcome to my GitHub. 🤙 <br>
 I am a big fan of software engineering, both front-end and back-end. <br>
