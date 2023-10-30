@@ -1,5 +1,4 @@
-My name is Patrick, welcome to my GitHub. <br>
-I would (no sarcasm) be honored to have you browse my work, and don't hesitate to say hello! <br>
+Pokemon Trainer
 
 Patrick <br>
 patrick.mcguigan5@gmail.com
