@@ -7,15 +7,15 @@
   <h4><em> Currently seeking new roles! </em></h4>
 </span>
 
-## About Me 🚀
+## I am
 
-I'm a passionate **software engineer** with experience in **Javascript/Typescript, React, Node, SQL, Postgres and HTML/CSS**. I love coming up with creative solutions to solve complex problems, learning new skills, and diverse collaboration. Outside of the technology realm I'm very active. Some of my favorite things to do are ride road bikes and mountain bikes, inline skate, rock climb, go for walks/hikes, drink smoothies, and spend my mornings at my local coffee shop!
+a passionate **software engineer** with experience in **Javascript/Typescript, React, Next, Node, SQL, Postgres and HTML/CSS**. I love coming up with creative solutions to complex problems, learning new skills, and diverse collaboration. Outside of the technology realm I'm very active. Some of my favorite things to do are ride bikes, skate, go for walks/hikes, drink smoothies, and spend my mornings at my local coffee shop in Edgewater, CO!
 
 - 🌱 Currently learning: **Next.js and Tailwind**
-- 🔭 Working on: **A cool new Next.js project that will launch soon!**
-- 🌍 Familiar Tech: **Javascript/Typescript, HTML/CSS/SASS, Materialize, Bootstrap, React, Next, Node, Express, SQL, MQL, Vercel, Docker**
+- 🔭 Working on: **A Next.js Airbnb style application that will ship soon!**
+- 🌍 Familiar Tech: **Javascript/Typescript, HTML/CSS/SASS, Materialize, Bootstrap, React via Vite & Next, Node, Express, SQL, MQL, Vercel**
 - 📫 How to reach me: **patrick.mcguigan5@gmail.com**
-- ⚡ Fun fact: **I love rollerblading!**
+- ⚡ Fun fact: **I've lived in CO for over 5 years but just visited RMNP for the first time this week!**
 
 ## My Technical Skills 🧠
 
@@ -35,10 +35,11 @@ I'm a passionate **software engineer** with experience in **Javascript/Typescrip
 
 ## Get in Touch 📬
 
-**https://pmsoftware.netlify.app/contact.html** <br />
-( will have a domain soon! I promise! )<br /><br />
+<a href="https://pmworks.dev/contact.html"> **Contact Page** </a>
+<br /><br />
 ![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)<br />
-**https://linkedin.com/in/patrickmcguigan**<br /><br />
+<a href="https://linkedin.com/in/patrickmcguigan"> **Linkedin Profile** </a>
+<br /><br />
 ![Twitter / X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)<br />
 **@midcenturypatt**<br /><br />
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)<br />
