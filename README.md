@@ -10,7 +10,7 @@ a passionate front end focused, full stack **software engineer** with experience
 - 🔭 Working on: **A Next.js Airbnb style application that will ship soon!**
 - 🌍 Familiar Tech: **Javascript/Typescript, HTML/CSS/SASS, Materialize, Bootstrap, React via Vite & Next, Node, Express, SQL, MQL, Vercel**
 - 📫 How to reach me: **patrick.mcguigan5@gmail.com**
-- ⚡ Fun fact: **I've lived in CO for over 5 years but just visited RMNP for the first time this week!**
+- ⚡ Fun fact: **I currently help people find the right gear for running, hiking, backpacking, camping, climbing, cycling, skiing & snowboarding at the Denver REI Flagship store**
 
 ## My Technical Skills 🧠
 
