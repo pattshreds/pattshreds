@@ -4,7 +4,7 @@
 
 ## I am
 
-a passionate front end focused, full stack **software engineer** with experience in **Javascript/Typescript, React, Next, Node, SQL, Postgres and HTML/CSS**. I love coming up with creative solutions to complex problems, learning new skills, and diverse collaboration. Outside of the technology realm I'm very active. Some of my favorite things to do are ride bikes, skate, go for walks/hikes, drink smoothies, and spend my mornings at my local coffee shop in Edgewater, CO!
+a passionate full-stack software engineer with a focus on front-end development. Experienced in JavaScript/TypeScript, React, Next.js, Node.js, SQL, PostgreSQL, and HTML/CSS. I love coming up with creative solutions to complex problems, learning new skills, and collaborating with diverse teams. Outside of tech, I'm very active. You'll find me riding bikes, skating, going for walks and hikes, drinking smoothies, and spending my mornings at my local coffee shop in Edgewater, CO!
 
 - 🌱 Currently learning: **Next.js and Tailwind**
 - 🔭 Working on: **A Next.js Airbnb style application that will ship soon!**
